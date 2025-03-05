@@ -19,14 +19,14 @@ This project is a solution for the GSynergy Data Engineering Challenge. It invol
 ## Setup Instructions
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/gsyn-data-engineering-challenge.git
-   cd gsyn-data-engineering-challenge
+   git clone https://github.com/MirdulKumar/gsyn-data-engineering-challenge-Mirdul-Kumar.git
+   cd gsyn-data-engineering-challenge-Mirdul-Kumar
    ```
 2. Set up cloud storage (Azure) and upload raw data.
-3. Configure your data warehouse (Microsoft Fabric, Databricks, Snowflake, or Redshift).
+3. Configure your data warehouse (Databricks).
 4. Install required dependencies:
    ```sh
-   pip install -r requirements.txt  # If using Python-based tools
+   pip install -r requirements.txt  # 
    ```
 5. Update configuration files with your cloud credentials and storage locations.
 
